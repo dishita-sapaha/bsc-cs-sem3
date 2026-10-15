@@ -1,0 +1,18 @@
+Data Structures
+│
+├── 1. Primitive Data Types (int, float, char, pointers)
+│
+└── 2. Non-Primitive Data Structures
+    │
+    ├── A. Linear Data Structures (Elements arranged sequentially)
+    │   ├── Static (Fixed size at compile time)
+    │   │   └── Array
+    │   │
+    │   └── Dynamic (Size can grow/shrink at runtime)
+    │       ├── Linked List (Singly, Doubly, Circular)
+    │       ├── Stack (Can be implemented using Arrays or Linked Lists)
+    │       └── Queue (Simple, Circular, Priority, Deque)
+    │
+    └── B. Nonlinear Data Structures (Elements arranged hierarchically or in networks)
+        ├── Trees (Binary Trees, BST, AVL Trees) [Unit III of your syllabus]
+        └── Graphs (Directed, Undirected, Weighted) [Unit III of your syllabus]
